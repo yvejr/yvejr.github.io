@@ -2,5 +2,7 @@ table,
 td {
     border: 1px solid #333;
 }
-
-thead,
+img {
+    max-width: 75%;
+    height:auto
+}
